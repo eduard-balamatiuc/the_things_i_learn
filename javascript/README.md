@@ -1,0 +1,1 @@
+# This is the javascript learning section that came up as a consequence of me needing to learn typescript
