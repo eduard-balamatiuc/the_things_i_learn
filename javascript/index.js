@@ -6,7 +6,7 @@ let name = "Eduard";
 console.log(name);
 
 name = "Ciao";
-console.log(name)
+console.log(name);
 
 // creating constants in javascript
 const car = "Tesla";
@@ -64,6 +64,3 @@ greet("Mary", "Lee");
 function square(number) {
     return number * number;
 }
-
-
-console.log(square(2));
